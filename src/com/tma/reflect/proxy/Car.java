@@ -1,7 +1,7 @@
 package com.tma.reflect.proxy;
 
 /**
- * Created by thuynghi on 11/4/2014.
+ * Created by Nghi Tran on 11/4/2014.
  */
 public class Car implements IVehicle{
 
